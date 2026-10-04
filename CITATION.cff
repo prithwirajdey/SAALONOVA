@@ -1,17 +1,14 @@
 cff-version: 1.2.0
+message: "If you use SAALONOVA in your work, please cite it using the following information."
 title: "SAALONOVA"
 version: "3.1"
-date-released: "2026"
 type: software
+date-released: 2026-10-04
 authors:
   - family-names: "Dey"
     given-names: "Prithwiraj"
     affiliation: "Agricultural & Food Engineering Department, Indian Institute of Technology Kharagpur"
     email: "prithwi@agfe.iitkgp.ac.in"
-institution: "Sustainable Agronomy & Agrogeochemistry Lab, Agricultural & Food Engineering Department, Indian Institute of Technology Kharagpur"
-repository-code: "https://github.com/"
-url: "https://www.saalkgp.in/saalonova"
-abstract: "SAALONOVA is a browser-based statistical analysis tool for balanced agricultural field experiments, supporting CRD, RBD, split-plot, strip-plot and split-split-plot designs, year-wise ANOVA, homogeneity testing, pooled ANOVA, standard errors, critical differences and mean separation."
 keywords:
   - agricultural statistics
   - ANOVA
@@ -23,14 +20,6 @@ keywords:
   - mean separation
   - agronomy
   - agricultural experiments
-license: "LicenseRef-All-Rights-Reserved"
-preferred-citation:
-  type: software
-  authors:
-    - family-names: "Dey"
-      given-names: "Prithwiraj"
-  title: "SAALONOVA"
-  version: "3.1"
-  year: 2026
-  publisher: "Sustainable Agronomy & Agrogeochemistry Lab, Agricultural & Food Engineering Department, Indian Institute of Technology Kharagpur"
-  url: "https://www.saalkgp.in/saalonova"
+repository-code: "https://github.com/prithwirajdey/SAALONOVA"
+url: "https://www.saalkgp.in/saalonova"
+abstract: "SAALONOVA is a browser-based statistical analysis tool for balanced agricultural field experiments, supporting CRD, RBD, split-plot, strip-plot and split-split-plot designs, year-wise ANOVA, homogeneity testing, pooled analysis and mean separation procedures."
